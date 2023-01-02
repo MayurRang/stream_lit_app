@@ -1,5 +1,7 @@
 import streamlit
 
-streamlit.title("Welcome to Badge 2: Data Application Builders Workshop")
-streamlit.header("Chapter 3")
-streamlit.text("At the end")
+streamlit.title("My healty Menu")
+streamlit.header('🥣 Breakfast Favorites')
+streamlit.text('🥗 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🐔 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🥑🍞 Hard-Boiled Free-Range Egg')
